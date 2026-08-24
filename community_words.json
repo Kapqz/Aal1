@@ -1,0 +1,116 @@
+[
+  {
+    "word": "telemedial",
+    "categories": [
+      "10-Buchstaben"
+    ],
+    "explanation": "Adjektiv: über elektronische Fernmedien wie Telefon, Internet, Fernsehen vermittelt"
+  },
+  {
+    "word": "kantonal",
+    "categories": [
+      "8-Buchstaben"
+    ],
+    "explanation": "Adjektiv: einen Kanton betreffend"
+  },
+  {
+    "word": "simplizial",
+    "categories": [
+      "10-Buchstaben",
+      "Mathematik"
+    ],
+    "explanation": "Adjektiv: geometrische oder abstrakte Räume aus einfachen, gradlinigen Bausteinen wie Punkten, Strecken, Dreiecken oder deren höherdimensionalen Entsprechungen (Simplizes) zusammengesetzt sind"
+  },
+  {
+    "word": "exponential",
+    "categories": [
+      "11-Buchstaben",
+      "Mathematik"
+    ],
+    "explanation": "Adjektiv: die Exponentialfunktion betreffend"
+  },
+  {
+    "word": "Matrixexponential",
+    "categories": [
+      "17-Buchstaben",
+      "Mathematik"
+    ],
+    "explanation": "Nomen: die Exponentialfunktion ausgewertet an einer Matrix"
+  },
+  {
+    "word": "orthonormal",
+    "categories": [
+      "11-Buchstaben",
+      "Mathematik"
+    ],
+    "explanation": "Adjektiv: paarweise aufeinander senkrecht stehend und Länge 1 habend"
+  },
+  {
+    "word": "Nilradikal",
+    "categories": [
+      "10-Buchstaben",
+      "Mathematik"
+    ],
+    "explanation": "Nomen: Das von der Null generierte Radikal eines Ringes"
+  },
+  {
+    "word": "natural",
+    "categories": [
+      "7-Buchstaben"
+    ],
+    "explanation": "Adjektiv: naturbelassen, natürlich"
+  },
+  {
+    "word": "Augenzahl",
+    "categories": [
+      "9-Buchstaben",
+      "AHL-Wörter"
+    ],
+    "explanation": "Nomen: Anzahl an Augen, häufig bei einem Spielwürfel"
+  },
+  {
+    "word": "Memorial",
+    "categories": [
+      "8-Buchstaben"
+    ],
+    "explanation": "Nomen: veraltetes Synonym für Tagebuch"
+  },
+  {
+    "word": "Zitteraal",
+    "categories": [
+      "9-Buchstaben",
+      "Biologie"
+    ],
+    "explanation": "Nomen: Fischgattung im nördlichen und mittleren Südamerika"
+  },
+  {
+    "word": "zyklonal",
+    "categories": [
+      "8-Buchstaben"
+    ],
+    "explanation": "Adjektiv: Der Begriff zyklonal beschreibt in der Meteorologie und Ozeanographie eine Drehbewegung oder Krümmung von Luft- und Wasserströmungen, die dem Drehsinn eines Tiefdruckgebiets (einer Zyklone) entspricht"
+  },
+  {
+    "word": "antizyklonal",
+    "categories": [
+      "12-Buchstaben"
+    ],
+    "explanation": "Adjektiv: Der Begriff antizyklonal bedeutet in der Wetterkunde (Meteorologie), dass sich Luftmassen so bewegen oder drehen, wie es für ein Hochdruckgebiet (Antizyklone) typisch ist"
+  },
+  {
+    "word": "Mindestanzahl",
+    "categories": [
+      "13-Buchstaben",
+      "AHL-Wörter"
+    ],
+    "explanation": "Nomen: Die Anzahl von Objekten die mindestens für ein bestimmtes Ereignis erforderlich ist"
+  },
+  {
+    "word": "Punktzahl",
+    "categories": [
+      "9-Buchstaben",
+      "AHL-Wörter"
+    ],
+    "explanation": "Nomen: Eine Punktzahl ist die Summe oder Anzahl von Punkten, die jemand bei einem Spiel, einem Test, einer Prüfung oder einem Bewertungssystem erreicht hat"
+  }
+]
