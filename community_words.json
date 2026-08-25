@@ -112,5 +112,29 @@
       "AHL-Wörter"
     ],
     "explanation": "Nomen: Eine Punktzahl ist die Summe oder Anzahl von Punkten, die jemand bei einem Spiel, einem Test, einer Prüfung oder einem Bewertungssystem erreicht hat"
+  },
+  {
+    "word": "Episkleral",
+    "categories": [
+      "10-Buchstaben",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: zur Episklera gehörend, also zur Bindegewebsschicht zwischen Lederhaut und Bindehaut des Auges gehörig. Der Begriff ist medizinisch als „episkleral“ belegt. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "word": "Perikardial",
+    "categories": [
+      "11-Buchstaben",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: zum Herzbeutel gehörend oder ihn betreffend. Der Begriff bezeichnet beispielsweise Strukturen oder Vorgänge in der Umgebung des Perikards. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "word": "Rostral",
+    "categories": [
+      "7-Buchstaben",
+      "Medizin",
+    ],
+    "explanation": "Adjektiv: in Richtung des Gesichts beziehungsweise der Nase gelegen oder orientiert; eine anatomische Richtungsbezeichnung."
   }
 ]
