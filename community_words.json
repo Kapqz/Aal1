@@ -153,5 +153,88 @@
       "Geologie"
     ],
     "explanation": "Adjektiv: den Bereich am Rand eines Gletschers oder die dort herrschenden klimatischen und geomorphologischen Bedingungen betreffend."
+  },
+  {
+    "word": "Intraglazial",
+    "categories": [
+      "12-Buchstaben",
+      "Geologie"
+    ],
+    "explanation": "Adjektiv: innerhalb einer Gletscher- oder Eismasse gelegen beziehungsweise innerhalb des Eises stattfindend."
+  },
+  {
+    "word": "Interkrural",
+    "categories": [
+      "11-Buchstaben",
+      "Anatomie"
+    ],
+    "explanation": "Adjektiv: zwischen den Crura, also zwischen anatomischen Schenkeln oder Schenkelstrukturen gelegen."
+  },
+  {
+    "word": "Endokardial",
+    "categories": [
+      "11-Buchstaben",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: das Endokard, also die innere Auskleidung des Herzens, betreffend oder dort gelegen."
+  },
+  {
+    "word": "Myokardial",
+    "categories": [
+      "10-Buchstaben",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: den Herzmuskel beziehungsweise das Myokard betreffend."
+  },
+  {
+    "word": "Epineural",
+    "categories": [
+      "9-Buchstaben",
+      "Anatomie"
+    ],
+    "explanation": "Adjektiv: auf oder außerhalb eines Nervs beziehungsweise der ihn umgebenden Strukturen gelegen."
+  },
+  {
+    "word": "Perineural",
+    "categories": [
+      "10-Buchstaben",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: einen Nerv umgebend oder die ihn umgebende Nervenscheide betreffend."
+  },
+  {
+    "word": "Subarachnoidal",
+    "categories": [
+      "14-Buchstaben",
+      "Medizin",
+      "Anatomie"
+    ],
+    "explanation": "Adjektiv: unterhalb der Arachnoidea, also der mittleren Hirnhaut, gelegen."
+  },
+  {
+    "word": "Transkortikal",
+    "categories": [
+      "13-Buchstaben",
+      "Medizin",
+      "Neurologie"
+    ],
+    "explanation": "Adjektiv: durch die Hirnrinde beziehungsweise den Kortex hindurch verlaufend."
+  },
+  {
+    "word": "Parenchymal",
+    "categories": [
+      "11-Buchstaben",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: das Parenchym, also das funktionelle Gewebe eines Organs, betreffend."
+  },
+  {
+    "word": "Stromal",
+    "categories": [
+      "7-Buchstaben",
+      "Biologie",
+      "Medizin"
+    ],
+    "explanation": "Adjektiv: das Stroma, also das stützende beziehungsweise strukturgebende Grundgerüst eines Gewebes oder Organs, betreffend."
   }
 ]
